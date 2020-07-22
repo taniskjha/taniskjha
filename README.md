@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi. I’m Tanisk. I am a Software Engineer from India 🇮🇳.
+
+I work at [Rankz Inc](https://rankz.io/) as a Frontend Developer. For more information about me,
+check out [taniskjha.com](https://taniskjha.com).
+
 <!--
 **taniskjha/taniskjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
