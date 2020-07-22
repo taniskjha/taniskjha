@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm a Frontend Developer from India 🇮🇳 👋
 
 <!--
 **taniskjha/taniskjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
