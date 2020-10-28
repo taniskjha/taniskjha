@@ -2,7 +2,7 @@
 
 I’m Tanisk. I am a Self-taught Software Engineer from India.
 
-I work at [Rankz Inc](https://rankz.io/) as a Frontend Developer. For more information about me,
+I work at [Dukaan](https://mydykaan.io/) as a Frontend Developer. For more information about me,
 check out [taniskjha.com](https://taniskjha.com).
 
 <!--
