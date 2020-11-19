@@ -2,7 +2,7 @@
 
 I’m Tanisk. I am a Self-taught Software Engineer from India.
 
-I work at [Dukaan](https://mydukaan.io/) as a Frontend Developer. For more information about me,
+I work at [Saarthi](https://saarthi.ai/) as a Frontend Developer. For more information about me,
 check out [taniskjha.com](https://taniskjha.com).
 
 <!--
